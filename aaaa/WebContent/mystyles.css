@@ -1,0 +1,39 @@
+.div1 {
+    height: 600px;
+    
+    background-image: url("file:///C:/Users/Raj/Desktop/web/backgrond1.jpg");
+	margin: auto;
+	padding: 30px 30px 2px 30px;
+}
+.h2 {
+color: red;
+font-size: 3em;
+text-align: right;
+}
+.h1 {
+font-size: 2em;
+text-align: center;
+color: red;
+margin-top: 0px:
+}
+.div2 {
+    height: 400px;
+	background-color: lightpink;
+	margin: 0;
+	padding: 10;
+}
+.div11 {
+     border: 1px solid none;
+	 margin: 0;
+	 
+}
+.h11 {
+     text-align: center;
+	 color: white;
+	 font-size: 5em;
+}
+
+
+.div22 {
+    margin: 10 0 0 20;
+}
